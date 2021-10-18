@@ -1,0 +1,15 @@
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\Ex3.exe
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\Ex3.deps.json
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.json
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\Ex3.runtimeconfig.dev.json
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\Ex3.dll
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\ref\Ex3.dll
+D:\Programing\ArraySearch\Ex3\bin\Debug\net5.0\Ex3.pdb
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfoInputs.cache
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.AssemblyInfo.cs
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.csproj.CoreCompileInputs.cache
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.dll
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\ref\Ex3.dll
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.pdb
+D:\Programing\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.genruntimeconfig.cache

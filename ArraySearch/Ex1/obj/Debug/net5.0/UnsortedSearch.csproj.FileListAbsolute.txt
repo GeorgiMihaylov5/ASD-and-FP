@@ -1,0 +1,16 @@
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\UnsortedSearch.exe
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\UnsortedSearch.deps.json
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\UnsortedSearch.runtimeconfig.json
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\UnsortedSearch.runtimeconfig.dev.json
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\UnsortedSearch.dll
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\ref\UnsortedSearch.dll
+D:\Programing\ArraySearch\UnsortedSearch\bin\Debug\net5.0\UnsortedSearch.pdb
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.csproj.AssemblyReference.cache
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.AssemblyInfoInputs.cache
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.AssemblyInfo.cs
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.csproj.CoreCompileInputs.cache
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.dll
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\ref\UnsortedSearch.dll
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.pdb
+D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\UnsortedSearch.genruntimeconfig.cache
