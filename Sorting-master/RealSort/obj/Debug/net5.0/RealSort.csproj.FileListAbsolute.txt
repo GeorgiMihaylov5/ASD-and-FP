@@ -1,0 +1,16 @@
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\RealSort.exe
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\RealSort.deps.json
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\RealSort.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\RealSort.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\RealSort.dll
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\ref\RealSort.dll
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\bin\Debug\net5.0\RealSort.pdb
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.dll
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\ref\RealSort.dll
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.pdb
+D:\School Georgi\ASD-and-FP\Sorting-master\RealSort\obj\Debug\net5.0\RealSort.genruntimeconfig.cache
