@@ -11,7 +11,7 @@ namespace Ex3
         {
             while (true)
             {
-                int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+                int[] arr = { 1, 2, 3 };
                 int n = int.Parse(Console.ReadLine());
 
                 Search(arr, n, 0, arr.Length);
@@ -33,6 +33,7 @@ namespace Ex3
 
             if (mid != n)
             {
+                //Search(arr, n, min, max);
                 if (!(min == max && min == mid && max == mid))
                 {
                     Search(arr, n, min, max);

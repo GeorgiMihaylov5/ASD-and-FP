@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BinarySearchRecursion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BinarySearchRecursion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearchRecursion.dll": {}
+        }
+      },
+      "MergeSort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MergeSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MergeSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearchRecursion/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearchRecursion/BinarySearchRecursion.csproj",
+      "msbuildProject": "../BinarySearchRecursion/BinarySearchRecursion.csproj"
+    },
+    "MergeSort/1.0.0": {
+      "type": "project",
+      "path": "../MergeSort/MergeSort.csproj",
+      "msbuildProject": "../MergeSort/MergeSort.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BinarySearchRecursion >= 1.0.0",
+      "MergeSort >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gogog\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\SortAndSearch\\SortAndSearch.csproj",
+      "projectName": "SortAndSearch",
+      "projectPath": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\SortAndSearch\\SortAndSearch.csproj",
+      "packagesPath": "C:\\Users\\gogog\\.nuget\\packages\\",
+      "outputPath": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\SortAndSearch\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gogog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\BinarySearchRecursion\\BinarySearchRecursion.csproj": {
+              "projectPath": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\BinarySearchRecursion\\BinarySearchRecursion.csproj"
+            },
+            "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\MergeSort\\MergeSort.csproj": {
+              "projectPath": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\MergeSort\\MergeSort.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

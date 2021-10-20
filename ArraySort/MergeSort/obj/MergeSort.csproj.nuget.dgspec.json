@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\MergeSort\\MergeSort.csproj": {}
+    "D:\\School Georgi\\ASD-and-FP\\ArraySort\\MergeSort\\MergeSort.csproj": {}
   },
   "projects": {
-    "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\MergeSort\\MergeSort.csproj": {
+    "D:\\School Georgi\\ASD-and-FP\\ArraySort\\MergeSort\\MergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\MergeSort\\MergeSort.csproj",
+        "projectUniqueName": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\MergeSort\\MergeSort.csproj",
         "projectName": "MergeSort",
-        "projectPath": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\MergeSort\\MergeSort.csproj",
+        "projectPath": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\MergeSort\\MergeSort.csproj",
         "packagesPath": "C:\\Users\\gogog\\.nuget\\packages\\",
-        "outputPath": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\MergeSort\\obj\\",
+        "outputPath": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\MergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

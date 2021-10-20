@@ -1,0 +1,12 @@
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\bin\Debug\net5.0\BinarySearchRecursion.deps.json
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\bin\Debug\net5.0\BinarySearchRecursion.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\bin\Debug\net5.0\ref\BinarySearchRecursion.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\bin\Debug\net5.0\BinarySearchRecursion.pdb
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\ref\BinarySearchRecursion.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\BinarySearchRecursion\obj\Debug\net5.0\BinarySearchRecursion.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programing\\ArraySearch\\Ex3\\Ex3.csproj": {}
+    "D:\\School Georgi\\ASD-and-FP\\ArraySearch\\Ex3\\Ex3.csproj": {}
   },
   "projects": {
-    "D:\\Programing\\ArraySearch\\Ex3\\Ex3.csproj": {
+    "D:\\School Georgi\\ASD-and-FP\\ArraySearch\\Ex3\\Ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programing\\ArraySearch\\Ex3\\Ex3.csproj",
+        "projectUniqueName": "D:\\School Georgi\\ASD-and-FP\\ArraySearch\\Ex3\\Ex3.csproj",
         "projectName": "Ex3",
-        "projectPath": "D:\\Programing\\ArraySearch\\Ex3\\Ex3.csproj",
+        "projectPath": "D:\\School Georgi\\ASD-and-FP\\ArraySearch\\Ex3\\Ex3.csproj",
         "packagesPath": "C:\\Users\\gogog\\.nuget\\packages\\",
-        "outputPath": "D:\\Programing\\ArraySearch\\Ex3\\obj\\",
+        "outputPath": "D:\\School Georgi\\ASD-and-FP\\ArraySearch\\Ex3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

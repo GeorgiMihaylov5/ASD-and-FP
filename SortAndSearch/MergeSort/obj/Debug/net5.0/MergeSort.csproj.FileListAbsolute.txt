@@ -1,0 +1,12 @@
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\bin\Debug\net5.0\MergeSort.deps.json
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\bin\Debug\net5.0\MergeSort.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\bin\Debug\net5.0\ref\MergeSort.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\bin\Debug\net5.0\MergeSort.pdb
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\ref\MergeSort.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.pdb
+D:\School Georgi\ASD-and-FP\SortAndSearch\MergeSort\obj\Debug\net5.0\MergeSort.csproj.AssemblyReference.cache

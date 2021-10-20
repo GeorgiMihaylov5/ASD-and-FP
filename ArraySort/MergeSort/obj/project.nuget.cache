@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjGLNepnEseBtFGjcvnP2HxQEDdCnAuA2BERbLhZxKprd87wg7Zy4tWM+9wFMkAbtIhPzM8CWsmTpt8I3yTQEQ==",
+  "dgSpecHash": "0DSj5LJKB0xf3V34m3+QStZ3w4NhhWUqDSdwqiaTL4pjDM0vwIY1+ejm8j2zfaElqzo6qFDzyRSmja72N3FPyg==",
   "success": true,
-  "projectFilePath": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\MergeSort\\MergeSort.csproj",
+  "projectFilePath": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\MergeSort\\MergeSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

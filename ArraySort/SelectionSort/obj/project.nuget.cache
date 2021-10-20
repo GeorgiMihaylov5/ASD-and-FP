@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kDmZS2v/0OUmAWnRNpdxF2VxABKq6kRY6vrZIRfsKQtlyBEuszt69OvcGi1Uf2Vfxafm6gLmmsuZ/QybBtYKg==",
+  "dgSpecHash": "4Bp8+vw4L6/6dkneApvOaehBDmak/SUal8KF/Vr18AO5E2ZtYqMTlMXrhR7soYP4LI5EM8vosCyAd0Ix6cc+zw==",
   "success": true,
-  "projectFilePath": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\SelectionSort\\SelectionSort.csproj",
+  "projectFilePath": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\SelectionSort\\SelectionSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

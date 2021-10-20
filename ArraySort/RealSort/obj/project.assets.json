@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\RealSort\\RealSort.csproj",
+      "projectUniqueName": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\RealSort\\RealSort.csproj",
       "projectName": "RealSort",
-      "projectPath": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\RealSort\\RealSort.csproj",
+      "projectPath": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\RealSort\\RealSort.csproj",
       "packagesPath": "C:\\Users\\gogog\\.nuget\\packages\\",
-      "outputPath": "D:\\School Georgi\\ASD-and-FP\\Sorting-master\\RealSort\\obj\\",
+      "outputPath": "D:\\School Georgi\\ASD-and-FP\\ArraySort\\RealSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
