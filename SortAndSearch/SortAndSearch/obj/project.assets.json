@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "BinarySearchLoop/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BinarySearchLoop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearchLoop.dll": {}
+        }
+      },
       "BinarySearchRecursion/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -25,6 +35,11 @@
     }
   },
   "libraries": {
+    "BinarySearchLoop/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearchLoop/BinarySearchLoop.csproj",
+      "msbuildProject": "../BinarySearchLoop/BinarySearchLoop.csproj"
+    },
     "BinarySearchRecursion/1.0.0": {
       "type": "project",
       "path": "../BinarySearchRecursion/BinarySearchRecursion.csproj",
@@ -38,6 +53,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "BinarySearchLoop >= 1.0.0",
       "BinarySearchRecursion >= 1.0.0",
       "MergeSort >= 1.0.0"
     ]
@@ -77,6 +93,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\BinarySearchLoop\\BinarySearchLoop.csproj": {
+              "projectPath": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\BinarySearchLoop\\BinarySearchLoop.csproj"
+            },
             "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\BinarySearchRecursion\\BinarySearchRecursion.csproj": {
               "projectPath": "D:\\School Georgi\\ASD-and-FP\\SortAndSearch\\BinarySearchRecursion\\BinarySearchRecursion.csproj"
             },

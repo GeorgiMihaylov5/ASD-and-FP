@@ -13,3 +13,4 @@ D:\School Georgi\ASD-and-FP\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.dll
 D:\School Georgi\ASD-and-FP\ArraySearch\Ex3\obj\Debug\net5.0\ref\Ex3.dll
 D:\School Georgi\ASD-and-FP\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.pdb
 D:\School Georgi\ASD-and-FP\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.genruntimeconfig.cache
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex3\obj\Debug\net5.0\Ex3.csproj.AssemblyReference.cache

@@ -19,3 +19,5 @@ D:\School Georgi\ASD-and-FP\SortAndSearch\SortAndSearch\obj\Debug\net5.0\ref\Sor
 D:\School Georgi\ASD-and-FP\SortAndSearch\SortAndSearch\obj\Debug\net5.0\SortAndSearch.pdb
 D:\School Georgi\ASD-and-FP\SortAndSearch\SortAndSearch\obj\Debug\net5.0\SortAndSearch.genruntimeconfig.cache
 D:\School Georgi\ASD-and-FP\SortAndSearch\SortAndSearch\obj\Debug\net5.0\SortAndSearch.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\SortAndSearch\SortAndSearch\bin\Debug\net5.0\BinarySearchLoop.dll
+D:\School Georgi\ASD-and-FP\SortAndSearch\SortAndSearch\bin\Debug\net5.0\BinarySearchLoop.pdb

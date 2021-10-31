@@ -8,11 +8,17 @@
     ".NETCoreApp,Version=v5.0": {
       "SortAndSearch/1.0.0": {
         "dependencies": {
+          "BinarySearchLoop": "1.0.0",
           "BinarySearchRecursion": "1.0.0",
           "MergeSort": "1.0.0"
         },
         "runtime": {
           "SortAndSearch.dll": {}
+        }
+      },
+      "BinarySearchLoop/1.0.0": {
+        "runtime": {
+          "BinarySearchLoop.dll": {}
         }
       },
       "BinarySearchRecursion/1.0.0": {
@@ -29,6 +35,11 @@
   },
   "libraries": {
     "SortAndSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinarySearchLoop/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

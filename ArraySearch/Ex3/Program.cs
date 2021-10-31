@@ -11,7 +11,7 @@ namespace Ex3
         {
             while (true)
             {
-                int[] arr = { 1, 2, 3 };
+                int[] arr = { 1, 2, 3, 4 };
                 int n = int.Parse(Console.ReadLine());
 
                 Search(arr, n, 0, arr.Length);

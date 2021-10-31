@@ -5,7 +5,7 @@ namespace MergeSort
 	public class Sort
 	{
 		//constant for array size
-		const int MAX_VALUE = 10;
+		const int MAX_VALUE = 1000;
 
 		// Merges two subarrays of []arr.
 		// First subarray is arr[l..m]
