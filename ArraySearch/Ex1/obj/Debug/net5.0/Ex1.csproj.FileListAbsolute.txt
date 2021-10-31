@@ -13,3 +13,19 @@ D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\Ex1.dll
 D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\ref\Ex1.dll
 D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\Ex1.pdb
 D:\Programing\ArraySearch\UnsortedSearch\obj\Debug\net5.0\Ex1.genruntimeconfig.cache
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\Ex1.exe
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\Ex1.deps.json
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\Ex1.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\Ex1.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\Ex1.dll
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\ref\Ex1.dll
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\bin\Debug\net5.0\Ex1.pdb
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.dll
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\ref\Ex1.dll
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.pdb
+D:\School Georgi\ASD-and-FP\ArraySearch\Ex1\obj\Debug\net5.0\Ex1.genruntimeconfig.cache
