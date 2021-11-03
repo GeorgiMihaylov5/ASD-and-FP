@@ -1,0 +1,32 @@
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.exe
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.deps.json
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\ref\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.pdb
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\ref\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.pdb
+D:\School Georgi\ASD-and-FP\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.genruntimeconfig.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.exe
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.deps.json
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\ref\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\bin\Debug\net5.0\RealDataSearch.pdb
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\ref\RealDataSearch.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.pdb
+D:\School Georgi\ASD-and-FP\Search algorithms\RealDataSearch\RealDataSearch\obj\Debug\net5.0\RealDataSearch.genruntimeconfig.cache

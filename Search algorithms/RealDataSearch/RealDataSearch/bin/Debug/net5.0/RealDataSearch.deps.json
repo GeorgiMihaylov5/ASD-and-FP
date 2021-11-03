@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RealDataSearch/1.0.0": {
+        "runtime": {
+          "RealDataSearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealDataSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
