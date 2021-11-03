@@ -1,0 +1,16 @@
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\Linear search.exe
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\Linear search.deps.json
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\Linear search.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\Linear search.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\Linear search.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\ref\Linear search.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\bin\Debug\net5.0\Linear search.pdb
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\ref\Linear search.dll
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.pdb
+D:\School Georgi\ASD-and-FP\Search algorithms\Linear search\Ex1\obj\Debug\net5.0\Linear search.genruntimeconfig.cache
