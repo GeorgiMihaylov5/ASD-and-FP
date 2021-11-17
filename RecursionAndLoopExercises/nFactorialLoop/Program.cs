@@ -11,7 +11,7 @@ namespace nFactorialLoop
             int n = int.Parse(Console.ReadLine());
             Stopwatch stopwatch = new Stopwatch();
 
-            Console.WriteLine("Loop: ");
+            Console.Write("Loop: ");
             stopwatch.Start();
             Loop(n);
             stopwatch.Stop();

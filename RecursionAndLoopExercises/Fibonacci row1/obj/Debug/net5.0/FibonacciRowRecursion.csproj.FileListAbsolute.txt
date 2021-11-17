@@ -13,3 +13,4 @@ D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\n
 D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\ref\FibonacciRowRecursion.dll
 D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.pdb
 D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.genruntimeconfig.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.csproj.AssemblyReference.cache
