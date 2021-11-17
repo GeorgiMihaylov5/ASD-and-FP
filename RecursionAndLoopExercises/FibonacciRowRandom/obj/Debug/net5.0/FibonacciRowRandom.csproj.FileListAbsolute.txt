@@ -1,0 +1,16 @@
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\FibonacciRowRandom.exe
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\FibonacciRowRandom.deps.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\FibonacciRowRandom.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\FibonacciRowRandom.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\FibonacciRowRandom.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\ref\FibonacciRowRandom.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\bin\Debug\net5.0\FibonacciRowRandom.pdb
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\ref\FibonacciRowRandom.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.pdb
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\FibonacciRowRandom\obj\Debug\net5.0\FibonacciRowRandom.genruntimeconfig.cache

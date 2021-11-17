@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci row", "Fibonacci row\Fibonacci row.csproj", "{65BFD2B7-A2A8-4CA4-9A30-ED29BC160B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciRowRecursion", "Fibonacci row1\FibonacciRowRecursion.csproj", "{7DA359B5-7B25-4248-9EDF-644C875890D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciRowLoop", "Fibonacci row2\FibonacciRowLoop.csproj", "{99B05E38-ED64-44C8-88A9-B3CD5E80898F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nFactorialRecursion", "nFactorialRecursion\nFactorialRecursion.csproj", "{3F03B740-EF55-43F2-9C22-1AD91A64C193}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nFactorialLoop", "nFactorialLoop\nFactorialLoop.csproj", "{1A272181-F0DD-4503-9244-10DDEBF28593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciRowRandom", "FibonacciRowRandom\FibonacciRowRandom.csproj", "{0F342BFD-B8F1-4B4C-B7A7-BCA1A0E760DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +19,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{65BFD2B7-A2A8-4CA4-9A30-ED29BC160B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65BFD2B7-A2A8-4CA4-9A30-ED29BC160B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65BFD2B7-A2A8-4CA4-9A30-ED29BC160B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65BFD2B7-A2A8-4CA4-9A30-ED29BC160B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA359B5-7B25-4248-9EDF-644C875890D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA359B5-7B25-4248-9EDF-644C875890D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA359B5-7B25-4248-9EDF-644C875890D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA359B5-7B25-4248-9EDF-644C875890D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B05E38-ED64-44C8-88A9-B3CD5E80898F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B05E38-ED64-44C8-88A9-B3CD5E80898F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B05E38-ED64-44C8-88A9-B3CD5E80898F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B05E38-ED64-44C8-88A9-B3CD5E80898F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F03B740-EF55-43F2-9C22-1AD91A64C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F03B740-EF55-43F2-9C22-1AD91A64C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F03B740-EF55-43F2-9C22-1AD91A64C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F03B740-EF55-43F2-9C22-1AD91A64C193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A272181-F0DD-4503-9244-10DDEBF28593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A272181-F0DD-4503-9244-10DDEBF28593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A272181-F0DD-4503-9244-10DDEBF28593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A272181-F0DD-4503-9244-10DDEBF28593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F342BFD-B8F1-4B4C-B7A7-BCA1A0E760DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F342BFD-B8F1-4B4C-B7A7-BCA1A0E760DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F342BFD-B8F1-4B4C-B7A7-BCA1A0E760DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F342BFD-B8F1-4B4C-B7A7-BCA1A0E760DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

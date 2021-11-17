@@ -26,20 +26,20 @@ namespace Fibonacci_row
             //Loop(1, 0, n);
             //stopwatch.Stop();
             //Console.WriteLine($"Ticks: {stopwatch.ElapsedTicks}");
-            
-            Console.Write("Loop: ");
-            stopwatch1.Start();
-            Loop(1, 0, n);
-            stopwatch1.Stop();
-            Console.WriteLine($"Ticks: {stopwatch1.ElapsedTicks}");
-
-            Console.WriteLine(new string('-', 15));
 
             Console.Write("Recursion: ");
             stopwatch2.Start();
             Recursion(1, 0, n);
             stopwatch2.Stop();
             Console.WriteLine($"Ticks: {stopwatch2.ElapsedTicks}");
+
+            Console.WriteLine(new string('-', 15));
+
+            Console.Write("Loop: ");
+            stopwatch1.Start();
+            Loop(1, 0, n);
+            stopwatch1.Stop();
+            Console.WriteLine($"Ticks: {stopwatch1.ElapsedTicks}");
         }
         static void Recursion(long lastNum, long penultimateNum, int length, int currentLength = 1)
         {

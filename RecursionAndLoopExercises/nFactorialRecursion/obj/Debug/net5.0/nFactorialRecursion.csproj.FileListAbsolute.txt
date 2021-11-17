@@ -1,0 +1,16 @@
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\nFactorialRecursion.exe
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\nFactorialRecursion.deps.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\nFactorialRecursion.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\nFactorialRecursion.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\nFactorialRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\ref\nFactorialRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\bin\Debug\net5.0\nFactorialRecursion.pdb
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\ref\nFactorialRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.pdb
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\nFactorialRecursion\obj\Debug\net5.0\nFactorialRecursion.genruntimeconfig.cache

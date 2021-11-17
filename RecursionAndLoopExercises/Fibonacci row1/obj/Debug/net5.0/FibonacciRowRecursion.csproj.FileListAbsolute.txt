@@ -1,0 +1,15 @@
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\FibonacciRowRecursion.exe
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\FibonacciRowRecursion.deps.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\FibonacciRowRecursion.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\FibonacciRowRecursion.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\FibonacciRowRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\ref\FibonacciRowRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\bin\Debug\net5.0\FibonacciRowRecursion.pdb
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\ref\FibonacciRowRecursion.dll
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.pdb
+D:\School Georgi\ASD-and-FP\RecursionAndLoopExercises\Fibonacci row1\obj\Debug\net5.0\FibonacciRowRecursion.genruntimeconfig.cache

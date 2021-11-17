@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FibonacciRowRecursion/1.0.0": {
+        "runtime": {
+          "FibonacciRowRecursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibonacciRowRecursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
