@@ -5,17 +5,22 @@ namespace nFactorialLoop
 {
     class Program
     {
-        static int result = 1;
+        static long result;
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            Stopwatch stopwatch = new Stopwatch();
+            while (true)
+            {
+                result = 1;
+                int n = int.Parse(Console.ReadLine());
+                Stopwatch stopwatch = new Stopwatch();
 
-            Console.Write("Loop: ");
-            stopwatch.Start();
-            Loop(n);
-            stopwatch.Stop();
-            Console.WriteLine($"Ticks: {stopwatch.ElapsedTicks}");
+                Console.Write("Loop: ");
+                stopwatch.Start();
+                Loop(n);
+                stopwatch.Stop();
+                Console.WriteLine(result);
+                Console.WriteLine($"Ticks: {stopwatch.ElapsedTicks}");
+            }
         }
         static void Loop(int n)
         {
@@ -24,7 +29,6 @@ namespace nFactorialLoop
                 result *= n;
                 n--;
             }
-            Console.WriteLine(result);
         }
     }
 }

@@ -5,16 +5,21 @@ namespace FibonacciRowLoop
 {
     class Program
     {
+        static long result = 0;
         static void Main(string[] args)
         {
-            Stopwatch stopwatch = new Stopwatch();
-            int n = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                Stopwatch stopwatch = new Stopwatch();
+                int n = int.Parse(Console.ReadLine());
 
-            Console.Write("Loop: ");
-            stopwatch.Start();
-            Loop(1, 0, n);
-            stopwatch.Stop();
-            Console.WriteLine($"Ticks: {stopwatch.ElapsedTicks}");
+                Console.Write("Loop: ");
+                stopwatch.Start();
+                Loop(1, 0, n);
+                stopwatch.Stop();
+                Console.WriteLine(result);
+                Console.WriteLine($"Ticks: {stopwatch.ElapsedTicks}");
+            }
         }
         static void Loop(long lastNum, long penultimateNum, int length)
         {
@@ -24,7 +29,7 @@ namespace FibonacciRowLoop
                 lastNum += penultimateNum;
                 penultimateNum = temp;
             }
-            Console.WriteLine(lastNum);
+            result = lastNum;
         }
     }
 }

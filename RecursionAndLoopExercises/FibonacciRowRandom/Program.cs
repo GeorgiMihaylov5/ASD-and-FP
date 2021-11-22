@@ -6,9 +6,11 @@ namespace FibonacciRowRandom
     class Program
     {
         const int MAX_VALUE = 10;
+        static long result = 1;
         static void Main(string[] args)
         {
             int[] arr = new int[MAX_VALUE];
+            long[] arr1 = new long[MAX_VALUE];
             Random rnd = new Random();
 
 
@@ -19,9 +21,13 @@ namespace FibonacciRowRandom
                 {
                     int num = Loop(rndInt);
                     arr[rndInt] = num;
+                    Recursion(1, 0, rndInt + 1);
+                    arr1[rndInt] = result;
+                    result = 1;
                 }
             }
             Console.WriteLine(string.Join(" ", arr));
+            Console.WriteLine(string.Join(" ", arr1));
         }
         static void FillArraay(int[] arr)
         {
@@ -45,6 +51,15 @@ namespace FibonacciRowRandom
                 penultimateNum = temp;
             }
             return lastNum;
+        }
+        static void Recursion(long lastNum, long penultimateNum, int length, int currentLength = 1)
+        {
+            if (currentLength == length)
+            {
+                result = lastNum;
+                return;
+            }
+            Recursion(lastNum + penultimateNum, lastNum, length, currentLength + 1);
         }
     }
 }
