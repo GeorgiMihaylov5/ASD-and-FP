@@ -1,0 +1,16 @@
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\Greedy.exe
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\Greedy.deps.json
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\Greedy.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\Greedy.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\Greedy.dll
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\ref\Greedy.dll
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\bin\Debug\net5.0\Greedy.pdb
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.dll
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\ref\Greedy.dll
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.pdb
+D:\School Georgi\ASD-and-FP\Greedy\Greedy\obj\Debug\net5.0\Greedy.genruntimeconfig.cache
