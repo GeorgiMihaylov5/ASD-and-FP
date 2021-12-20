@@ -1,0 +1,64 @@
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.exe
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.deps.json
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.json
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.dev.json
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.AssemblyReference.cache
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfoInputs.cache
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfo.cs
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.CoreCompileInputs.cache
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+C:\Users\OfficeCP\source\repos\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.genruntimeconfig.cache
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.exe
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.deps.json
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.json
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.dev.json
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.AssemblyReference.cache
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfoInputs.cache
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfo.cs
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.CoreCompileInputs.cache
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+D:\Teacher\Учебни материали 2021-2022\Алгоритми и структури от данни\GreedyАlgorithm_ShortPath\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.genruntimeconfig.cache
+D:\School Georgi\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.exe
+D:\School Georgi\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.deps.json
+D:\School Georgi\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.json
+D:\School Georgi\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.dev.json
+D:\School Georgi\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ex\bin\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.AssemblyReference.cache
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfoInputs.cache
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfo.cs
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.CoreCompileInputs.cache
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ex\obj\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+D:\School Georgi\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.genruntimeconfig.cache
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.exe
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.deps.json
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.json
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.runtimeconfig.dev.json
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ASD-and-FP\ex\bin\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.AssemblyReference.cache
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfoInputs.cache
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.AssemblyInfo.cs
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.csproj.CoreCompileInputs.cache
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\ref\GreedyАlgorithm_ShortPath.dll
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.pdb
+D:\School Georgi\ASD-and-FP\ex\obj\Debug\net5.0\GreedyАlgorithm_ShortPath.genruntimeconfig.cache
