@@ -1,12 +1,13 @@
-﻿using System;
+using System;
 
 namespace QueenChess
 {
     class Program
     {
         private const int LENGTH = 8;
-        static int[,] board = new int[LENGTH, LENGTH];
-        static int queen = 1;
+        static char[,] board = new char[LENGTH, LENGTH];
+        private const char TAKEN_FIELD = '*';
+        private const char QUEEN = 'O';
         static void Main(string[] args)
         {
             while (true)
@@ -15,45 +16,47 @@ namespace QueenChess
 
                 Console.Write("Enter position: ");
                 string position = Console.ReadLine(); //position of queen
-
+                
 
                 int x = int.Parse(position[1].ToString());
                 int y = int.Parse(position[0].ToString());
 
-                if (board[y, x] == 0)
+                if (board[y, x] == '\0')
                 {
                     AddQueen(y, x);
                 }
-                else if (board[y, x] % 2 != 0)
+                else if (board[y, x] == QUEEN)
                 {
-                    queen = 1;
+                    string[] queens = new string[LENGTH];
+                    int index = 0;
                     for (int i = 0; i < LENGTH; i++)
                     {
                         for (int j = 0; j < LENGTH; j++)
                         {
-                            if (board[i,j] == board[y, x] + 1)
+                            string temp = $"{i}{j}";
+                            if (board[i, j] == QUEEN && temp != position)
                             {
-                                board[i, j] = 0;
+                                queens[index] = temp;
+                                index++;
                             }
+                            board[i, j] = '\0';
                         }
                     }
 
-                    for (int i = 0; i < LENGTH; i++)
+                    for (int i = 0; i < queens.Length; i++)
                     {
-                        for (int j = 0; j < LENGTH; j++)
+                        if (queens[i] != null)
                         {
-                            if (board[i, j] % 2 != 0 && board[y, x] != board[i, j])
-                            {
-                                AddQueen(i, j);
-                            }
+                             x = int.Parse(queens[i][1].ToString());
+                             y = int.Parse(queens[i][0].ToString());
+
+                            AddQueen(y, x);
                         }
                     }
-
-                    board[y, x] = 0;
                 }
                 else
                 {
-                    Console.WriteLine("Try again!");
+                    Console.WriteLine("Taken position! Try another one");
                     continue;
                 }
             }
@@ -61,34 +64,34 @@ namespace QueenChess
 
         static void AddQueen(int y, int x)
         {
-            board[y, x] = queen;
+            board[y, x] = 'O';
 
             int yTemp = y - 1;
 
             //sides
             while (yTemp >= 0)
             {
-                board[yTemp, x] = queen + 1;
+                board[yTemp, x] = TAKEN_FIELD;
                 yTemp--;
             }
             yTemp = y + 1;
 
             while (yTemp < 8)
             {
-                board[yTemp, x] = queen + 1;
+                board[yTemp, x] = TAKEN_FIELD;
                 yTemp++;
             }
 
             int xTemp = x - 1;
             while (xTemp >= 0)
             {
-                board[y, xTemp] = queen + 1;
+                board[y, xTemp] = TAKEN_FIELD;
                 xTemp--;
             }
             xTemp = x + 1;
             while (xTemp < 8)
             {
-                board[y, xTemp] = queen + 1;
+                board[y, xTemp] = TAKEN_FIELD;
                 xTemp++;
             }
 
@@ -97,7 +100,7 @@ namespace QueenChess
             yTemp = y - 1;
             while (xTemp >= 0 && yTemp >= 0)
             {
-                board[yTemp, xTemp] = queen + 1;
+                board[yTemp, xTemp] = TAKEN_FIELD;
                 yTemp--;
                 xTemp--;
             }
@@ -105,7 +108,7 @@ namespace QueenChess
             yTemp = y + 1;
             while (xTemp >= 0 && yTemp < 8)
             {
-                board[yTemp, xTemp] = queen + 1;
+                board[yTemp, xTemp] = TAKEN_FIELD;
                 yTemp++;
                 xTemp--;
             }
@@ -113,7 +116,7 @@ namespace QueenChess
             yTemp = y + 1;
             while (xTemp < 8 && yTemp < 8)
             {
-                board[yTemp, xTemp] = queen + 1;
+                board[yTemp, xTemp] = TAKEN_FIELD;
                 yTemp++;
                 xTemp++;
             }
@@ -121,11 +124,10 @@ namespace QueenChess
             yTemp = y - 1;
             while (xTemp < 8 && yTemp >= 0)
             {
-                board[yTemp, xTemp] = queen + 1;
+                board[yTemp, xTemp] = TAKEN_FIELD;
                 yTemp--;
                 xTemp++;
             }
-            queen += 2;
         }
         static void Display()
         {
@@ -133,12 +135,12 @@ namespace QueenChess
             {
                 for (int j = 0; j < LENGTH; j++)
                 {
-                    if (board[i, j] < 10)
+                    if (board[i,j] == '\0')
                     {
-                        Console.Write($"0{board[i, j]} ");
+                        Console.Write("- ");
                         continue;
                     }
-                    Console.Write($"{board[i, j]} ");
+                    Console.Write(board[i, j] + " ");
                 }
                 Console.WriteLine();
             }
