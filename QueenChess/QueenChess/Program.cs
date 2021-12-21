@@ -5,21 +5,20 @@ namespace QueenChess
     class Program
     {
         private const int LENGTH = 8;
-        static char[,] board = new char[LENGTH, LENGTH];
+        private static readonly char[,] board = new char[LENGTH, LENGTH];
         private const char TAKEN_FIELD = '*';
         private const char QUEEN = 'O';
-        static void Main(string[] args)
+        static void Main()
         {
             while (true)
             {
                 Display();
 
                 Console.Write("Enter position: ");
-                string position = Console.ReadLine(); //position of queen
-                
+                string position = Console.ReadLine();
 
-                int x = int.Parse(position[1].ToString());
                 int y = int.Parse(position[0].ToString());
+                int x = int.Parse(position[1].ToString());
 
                 if (board[y, x] == '\0')
                 {
@@ -29,29 +28,27 @@ namespace QueenChess
                 {
                     string[] queens = new string[LENGTH];
                     int index = 0;
+
                     for (int i = 0; i < LENGTH; i++)
                     {
                         for (int j = 0; j < LENGTH; j++)
                         {
-                            string temp = $"{i}{j}";
-                            if (board[i, j] == QUEEN && temp != position)
+                            string tempIndex = $"{i}{j}";
+                            if (board[i, j] == QUEEN && tempIndex != position)
                             {
-                                queens[index] = temp;
+                                queens[index] = tempIndex;
                                 index++;
                             }
                             board[i, j] = '\0';
                         }
                     }
 
-                    for (int i = 0; i < queens.Length; i++)
+                    for (int i = 0; i < index; i++)
                     {
-                        if (queens[i] != null)
-                        {
-                             x = int.Parse(queens[i][1].ToString());
-                             y = int.Parse(queens[i][0].ToString());
-
-                            AddQueen(y, x);
-                        }
+                        y = int.Parse(queens[i][0].ToString());
+                        x = int.Parse(queens[i][1].ToString());
+                        
+                        AddQueen(y, x);
                     }
                 }
                 else
@@ -137,10 +134,10 @@ namespace QueenChess
                 {
                     if (board[i,j] == '\0')
                     {
-                        Console.Write("- ");
+                        Console.Write(" - ");
                         continue;
                     }
-                    Console.Write(board[i, j] + " ");
+                    Console.Write($" {board[i, j]} ");
                 }
                 Console.WriteLine();
             }

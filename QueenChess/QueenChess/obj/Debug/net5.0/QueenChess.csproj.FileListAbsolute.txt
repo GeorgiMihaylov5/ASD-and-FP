@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\QueenChess.exe
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\QueenChess.deps.json
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\QueenChess.runtimeconfig.json
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\QueenChess.runtimeconfig.dev.json
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\QueenChess.dll
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\ref\QueenChess.dll
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\bin\Debug\net5.0\QueenChess.pdb
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.AssemblyInfo.cs
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.dll
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\ref\QueenChess.dll
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.pdb
+C:\Users\Student\Documents\12b\ASD-and-FP\QueenChess\QueenChess\obj\Debug\net5.0\QueenChess.genruntimeconfig.cache
