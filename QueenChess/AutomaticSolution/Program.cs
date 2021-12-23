@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace AutomaticSolution
 {
@@ -26,7 +27,8 @@ namespace AutomaticSolution
                 }
             }
 
-            for (int i = 0; i < LENGTH + 5; i++)
+            //for (int i = 0; i < LENGTH + 5; i++)
+            for (int i = 0; i < LENGTH; i++)
             {
                 //генериране на рандом число
                 int row = rnd.Next(0, LENGTH);
