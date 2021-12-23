@@ -4,7 +4,7 @@ namespace QueenChess
 {
     class Program
     {
-        private const int LENGTH = 4;
+        private const int LENGTH = 8;
         private static readonly char[,] board = new char[LENGTH, LENGTH];
         private const char TAKEN_FIELD = '*';
         private const char QUEEN = 'O';
