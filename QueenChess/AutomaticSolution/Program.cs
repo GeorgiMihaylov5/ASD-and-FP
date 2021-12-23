@@ -8,7 +8,7 @@ namespace AutomaticSolution
         private const int LENGTH = 8;
         private static readonly char[,] board = new char[LENGTH, LENGTH];
         private const char QUEEN = 'O';
-        private static Random rnd = new Random();
+        private static readonly Random rnd = new();
         static void Main()
         {
             Find(0);
