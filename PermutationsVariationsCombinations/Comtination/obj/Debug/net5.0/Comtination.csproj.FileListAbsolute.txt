@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\Comtination.exe
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\Comtination.deps.json
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\Comtination.runtimeconfig.json
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\Comtination.runtimeconfig.dev.json
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\Comtination.dll
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\ref\Comtination.dll
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\bin\Debug\net5.0\Comtination.pdb
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.AssemblyInfo.cs
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.dll
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\ref\Comtination.dll
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.pdb
+C:\Users\Student\source\repos\PermutationsVariationsCombinations\Comtination\obj\Debug\net5.0\Comtination.genruntimeconfig.cache
